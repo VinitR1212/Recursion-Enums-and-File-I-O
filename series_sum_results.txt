@@ -1,0 +1,12 @@
+Series Category: ARITHMETIC
+Number of terms: 5
+First term (a): 1
+Common difference (d): 2
+Sum of the series: 25
+------------------------------
+Series Category: ARITHMETIC
+Number of terms: 1
+First term (a): 2
+Common difference (d): 1
+Sum of the series: 2
+------------------------------
